@@ -7,3 +7,6 @@ git config --list
 
 git init # 生成.git目录，用于跟踪管理仓库版本
 
+
+first...
+
